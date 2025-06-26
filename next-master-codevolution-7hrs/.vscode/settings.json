@@ -1,0 +1,12 @@
+{
+  "[typescript]": {
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+}
